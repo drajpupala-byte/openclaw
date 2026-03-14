@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  macOS launchd service file for OpenClaw Telegram bot.
+
+  Install:
+    cp com.openclaw.bot.plist ~/Library/LaunchAgents/
+    launchctl load ~/Library/LaunchAgents/com.openclaw.bot.plist
+
+  Uninstall:
+    launchctl unload ~/Library/LaunchAgents/com.openclaw.bot.plist
+    rm ~/Library/LaunchAgents/com.openclaw.bot.plist
+
+  Logs:
+    tail -f /tmp/openclaw.log
+    tail -f /tmp/openclaw.err
+-->
+<plist version="1.0">
+<dict>
+
+  <!-- Unique service label -->
+  <key>Label</key>
+  <string>com.openclaw.bot</string>
+
+  <!-- Command: /path/to/venv/bin/python /path/to/openclaw/bot.py -->
+  <!-- Edit these paths to match your setup (see README for details). -->
+  <key>ProgramArguments</key>
+  <array>
+    <string>REPLACE_WITH_VENV_PYTHON_PATH</string>
+    <string>REPLACE_WITH_BOT_PY_PATH</string>
+  </array>
+
+  <!-- Working directory (same folder as bot.py so .env is found) -->
+  <key>WorkingDirectory</key>
+  <string>REPLACE_WITH_OPENCLAW_DIR</string>
+
+  <!-- Start automatically when the user logs in -->
+  <key>RunAtLoad</key>
+  <true/>
+
+  <!-- Restart automatically if the process exits -->
+  <key>KeepAlive</key>
+  <true/>
+
+  <!-- Throttle restarts: wait 10 s before restarting after a crash -->
+  <key>ThrottleInterval</key>
+  <integer>10</integer>
+
+  <!-- Log files -->
+  <key>StandardOutPath</key>
+  <string>/tmp/openclaw.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/tmp/openclaw.err</string>
+
+</dict>
+</plist>
