@@ -1,0 +1,38 @@
+Order Date,Order Number,Item Description,Category,Quantity,Item Price,Order Total
+01/08/2025,ORD-2025-001001,Kirkland Signature Paper Towels 12-Pack,Paper Goods,1,39.99,39.99
+01/08/2025,ORD-2025-001001,Kirkland Signature Coffee 3 lbs,Beverages,2,44.98,44.98
+01/15/2025,ORD-2025-001002,Epson EcoTank Printer ET-4850,Electronics,1,379.99,379.99
+01/22/2025,ORD-2025-001003,Office Chair High Back Mesh,Furniture,2,599.98,599.98
+02/05/2025,ORD-2025-002001,Costco Business Delivery - Office Supplies Bulk,Office Supplies,1,215.50,215.50
+02/12/2025,ORD-2025-002002,HP Copy Paper 10-Ream Case,Office Products,1,69.99,69.99
+02/19/2025,ORD-2025-002003,Tide Laundry Pods 152-Count,Cleaning,1,29.99,29.99
+03/04/2025,ORD-2025-003001,Sanitizing Wipes 5-Pack Kirkland,Cleaning,3,59.97,59.97
+03/11/2025,ORD-2025-003002,Business Envelopes 500-Pack,Office Supplies,1,24.99,24.99
+03/18/2025,ORD-2025-003003,Samsung 32-inch Monitor 4K,Electronics,2,999.98,999.98
+04/02/2025,ORD-2025-004001,Kirkland Signature Water 40-Pack,Beverages,2,27.98,27.98
+04/09/2025,ORD-2025-004002,Fellowes AutoMax Shredder 300C,Electronics,1,449.99,449.99
+04/16/2025,ORD-2025-004003,Industrial Shelving 6-Tier,Storage,3,449.97,449.97
+05/07/2025,ORD-2025-005001,Laptop Backpack with USB Port,Accessories,4,119.96,119.96
+05/14/2025,ORD-2025-005002,Wireless Headphones Bose 700,Electronics,2,559.98,559.98
+05/21/2025,ORD-2025-005003,Mixed Nuts 40 oz Kirkland,Snacks,2,37.98,37.98
+06/04/2025,ORD-2025-006001,LED Desk Lamp with USB,Office Products,5,249.95,249.95
+06/11/2025,ORD-2025-006002,Bankers Box File Storage 10-Pack,Office Supplies,2,89.98,89.98
+06/25/2025,ORD-2025-006003,Apple iPad 10.9-inch Wi-Fi 64GB,Electronics,3,1499.97,1499.97
+07/02/2025,ORD-2025-007001,Bounce Dryer Sheets 240-Count,Cleaning,1,14.99,14.99
+07/09/2025,ORD-2025-007002,Business Card Holder,Office Products,6,89.94,89.94
+07/16/2025,ORD-2025-007003,Ergonomic Keyboard Microsoft,Electronics,2,159.98,159.98
+08/06/2025,ORD-2025-008001,APC UPS Battery Backup 1500VA,Electronics,2,349.98,349.98
+08/13/2025,ORD-2025-008002,Scotch Tape Dispenser Value Pack,Office Supplies,2,29.98,29.98
+08/20/2025,ORD-2025-008003,Canon EOS Camera Kit,Electronics,1,849.99,849.99
+09/03/2025,ORD-2025-009001,Costco Business Catering Order,Food Services,1,425.00,425.00
+09/10/2025,ORD-2025-009002,Smart TV 55-inch Samsung,Electronics,1,549.99,549.99
+09/17/2025,ORD-2025-009003,Paper Clips Binder Clips Office Set,Office Supplies,3,29.97,29.97
+10/01/2025,ORD-2025-010001,Starbucks Coffee Pods 80-Count,Beverages,2,55.98,55.98
+10/08/2025,ORD-2025-010002,Toshiba External Hard Drive 4TB,Electronics,3,299.97,299.97
+10/15/2025,ORD-2025-010003,Dry Erase Whiteboard 4x3 ft,Office Products,2,219.98,219.98
+11/05/2025,ORD-2025-011001,Hand Sanitizer 1-Gallon Kirkland,Cleaning,4,79.96,79.96
+11/12/2025,ORD-2025-011002,Wireless Charging Pad Multi-Device,Electronics,3,119.97,119.97
+11/19/2025,ORD-2025-011003,Costco Business Supplies Bundle,Office Supplies,1,189.99,189.99
+12/03/2025,ORD-2025-012001,Holiday Gift Cards Business,Gift Cards,10,500.00,500.00
+12/10/2025,ORD-2025-012002,Cable Management Kit,Office Products,2,49.98,49.98
+12/17/2025,ORD-2025-012003,Label Printer Brother QL-820,Electronics,1,179.99,179.99

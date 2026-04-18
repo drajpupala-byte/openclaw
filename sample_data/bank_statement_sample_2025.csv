@@ -1,0 +1,101 @@
+Transaction Date,Description,Debit,Credit,Balance
+01/03/2025,AT&T Business Wireless,185.00,,12450.00
+01/07/2025,Comcast Business Internet,189.99,,12260.01
+01/10/2025,Google Workspace Monthly,18.00,,12242.01
+01/14/2025,Delta Airlines Business Travel,542.80,,11699.21
+01/18/2025,Marriott Hotels Seattle WA,398.50,,11300.71
+01/22/2025,Client Payment Received,,5000.00,16300.71
+01/25/2025,Uber Business Rides January,67.30,,16233.41
+01/28/2025,Office Depot Supplies,134.56,,16098.85
+01/31/2025,QuickBooks Subscription,35.00,,16063.85
+02/04/2025,Starbucks Business Meetings,48.75,,16015.10
+02/07/2025,FedEx Shipping Business,89.20,,15925.90
+02/11/2025,State Farm Business Insurance,245.00,,15680.90
+02/14/2025,Adobe Creative Cloud,54.99,,15625.91
+02/18/2025,Shell Gas Station Business,78.45,,15547.46
+02/22/2025,Client Payment Received,,7500.00,23047.46
+02/25/2025,Verizon Business Account,210.00,,22837.46
+02/28/2025,HR Block Tax Services,750.00,,22087.46
+03/04/2025,Uber Eats Business Lunch,87.50,,22000.00 (approx)
+03/05/2025,AT&T Business Wireless,185.00,,21815.00
+03/07/2025,Comcast Business Internet,189.99,,21625.01
+03/10/2025,Zoom Pro Annual Subscription,149.90,,21475.11
+03/14/2025,Delta Airlines Chicago Trip,389.00,,21086.11
+03/18/2025,Hyatt Hotel Chicago,512.00,,20574.11
+03/22/2025,Client Payment Received,,6200.00,26774.11
+03/25/2025,Enterprise Rent-A-Car,189.00,,26585.11
+03/28/2025,UPS Store Shipping Supplies,56.80,,26528.31
+04/03/2025,AT&T Business Wireless,185.00,,26343.31
+04/07/2025,Comcast Business Internet,189.99,,26153.32
+04/10/2025,LinkedIn Premium Business,59.99,,26093.33
+04/14/2025,Google Ads Campaign April,450.00,,25643.33
+04/18/2025,Client Payment Received,,8000.00,33643.33
+04/22/2025,Wework Coworking Space,599.00,,33044.33
+04/25/2025,Canva Pro Subscription,12.99,,33031.34
+04/28/2025,USPS Postage Business,34.20,,32997.14
+05/02/2025,AT&T Business Wireless,185.00,,32812.14
+05/06/2025,Comcast Business Internet,189.99,,32622.15
+05/09/2025,Chipotle Business Catering,245.00,,32377.15
+05/13/2025,Southwest Airlines Portland,298.00,,32079.15
+05/17/2025,Hampton Inn Portland,487.50,,31591.65
+05/20/2025,Client Payment Received,,9500.00,41091.65
+05/23/2025,Fiverr Freelance Design,380.00,,40711.65
+05/27/2025,Dropbox Business Annual,119.99,,40591.66
+05/30/2025,FedEx Shipping,45.60,,40546.06
+06/03/2025,AT&T Business Wireless,185.00,,40361.06
+06/06/2025,Comcast Business Internet,189.99,,40171.07
+06/10/2025,Panera Bread Team Lunch,132.50,,40038.57
+06/14/2025,American Airlines NY Flight,675.00,,39363.57
+06/17/2025,Hilton Garden Inn NY,894.00,,38469.57
+06/20/2025,Client Payment Received,,12000.00,50469.57
+06/24/2025,Mailchimp Standard Monthly,20.00,,50449.57
+06/27/2025,Notary Public Services,75.00,,50374.57
+07/02/2025,AT&T Business Wireless,185.00,,50189.57
+07/07/2025,Comcast Business Internet,189.99,,49999.58
+07/10/2025,Slack Pro Monthly,12.50,,49987.08
+07/15/2025,Lyft Business Rides,93.40,,49893.68
+07/18/2025,Client Payment Received,,7800.00,57693.68
+07/22/2025,Chevron Gas Station,82.30,,57611.38
+07/25/2025,McDonalds Business Meeting,45.80,,57565.58
+07/29/2025,UPS Shipping,67.90,,57497.68
+08/05/2025,AT&T Business Wireless,185.00,,57312.68
+08/07/2025,Comcast Business Internet,189.99,,57122.69
+08/12/2025,HubSpot Starter Monthly,45.00,,57077.69
+08/15/2025,Parking Fee Downtown,35.00,,57042.69
+08/19/2025,Client Payment Received,,11000.00,68042.69
+08/22/2025,Bank Wire Transfer Fee,25.00,,68017.69
+08/26/2025,GoDaddy Domain Renewal,89.17,,67928.52
+08/29/2025,Vistaprint Business Cards,78.99,,67849.53
+09/03/2025,AT&T Business Wireless,185.00,,67664.53
+09/05/2025,Comcast Business Internet,189.99,,67474.54
+09/09/2025,United Airlines Denver,412.00,,67062.54
+09/12/2025,Westin Hotel Denver,678.00,,66384.54
+09/16/2025,Client Payment Received,,9000.00,75384.54
+09/19/2025,Facebook Ads September,550.00,,74834.54
+09/23/2025,Adobe Photoshop Monthly,20.99,,74813.55
+09/26/2025,USPS Priority Mail,89.40,,74724.15
+10/02/2025,AT&T Business Wireless,185.00,,74539.15
+10/06/2025,Comcast Business Internet,189.99,,74349.16
+10/10/2025,Grubhub Team Lunch,178.40,,74170.76
+10/14/2025,Toll Roads I-90,42.00,,74128.76
+10/17/2025,Client Payment Received,,13500.00,87628.76
+10/21/2025,Asana Business Monthly,24.99,,87603.77
+10/24/2025,Shopify Basic Monthly,29.00,,87574.77
+10/28/2025,DHL International Shipping,145.60,,87429.17
+11/04/2025,AT&T Business Wireless,185.00,,87244.17
+11/06/2025,Comcast Business Internet,189.99,,87054.18
+11/11/2025,Starbucks Team Meeting,67.50,,86986.68
+11/14/2025,JetBlue Airlines Miami,534.00,,86452.68
+11/17/2025,Four Points Hotel Miami,745.00,,85707.68
+11/19/2025,Client Payment Received,,10000.00,95707.68
+11/24/2025,Progressive Business Insurance,198.00,,95509.68
+11/28/2025,Upwork Freelancer Payment,620.00,,94889.68
+12/03/2025,AT&T Business Wireless,185.00,,94704.68
+12/05/2025,Comcast Business Internet,189.99,,94514.69
+12/09/2025,Zoom Annual Renewal,149.90,,94364.79
+12/12/2025,Google Ads December,700.00,,93664.79
+12/16/2025,Client Payment Received,,15000.00,108664.79
+12/19/2025,UPS Holiday Shipping,234.80,,108429.99
+12/23/2025,Holiday Team Dinner,892.50,,107537.49
+12/29/2025,PayPal Transaction Fee,45.20,,107492.29
+12/31/2025,Bank Service Fee,15.00,,107477.29

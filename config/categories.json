@@ -1,0 +1,99 @@
+{
+  "categories": {
+    "Office Supplies": {
+      "keywords": ["office depot", "officemax", "staples", "paper", "ink cartridge", "toner", "printer", "pens", "sticky notes", "folders", "binders", "shredder", "desk", "chair", "filing"],
+      "deduction_rate": 1.0,
+      "color": "4472C4"
+    },
+    "Business Meals": {
+      "keywords": ["restaurant", "grubhub", "doordash", "ubereats", "instacart", "chipotle", "starbucks", "panera", "subway", "mcdonald", "catering", "dining", "diner", "grill", "bistro", "cafe", "eatery", "sushi", "pizza", "burger"],
+      "deduction_rate": 0.5,
+      "color": "ED7D31",
+      "note": "Only 50% deductible per IRS rules"
+    },
+    "Technology & Software": {
+      "keywords": ["apple", "microsoft", "google", "adobe", "zoom", "slack", "dropbox", "github", "aws", "azure", "software", "laptop", "computer", "monitor", "keyboard", "mouse", "headset", "tablet", "ipad", "macbook", "bestbuy", "best buy", "newegg", "b&h", "bhphotovideo"],
+      "deduction_rate": 1.0,
+      "color": "A9D18E"
+    },
+    "Business Subscriptions": {
+      "keywords": ["subscription", "linkedin", "quickbooks", "shopify", "squarespace", "mailchimp", "hubspot", "salesforce", "notion", "asana", "monday.com", "hootsuite", "canva", "figma", "trello", "jira", "zendesk", "freshbooks", "wave", "xero"],
+      "deduction_rate": 1.0,
+      "color": "FFD966"
+    },
+    "Travel & Transportation": {
+      "keywords": ["airline", "delta", "united airlines", "american airlines", "southwest", "jetblue", "spirit airlines", "hotel", "marriott", "hilton", "hyatt", "holiday inn", "hampton inn", "airbnb", "vrbo", "uber", "lyft", "taxi", "parking", "toll", "gas station", "shell", "chevron", "exxon", "bp", "mobil", "sunoco", "fuel", "enterprise", "hertz", "avis", "budget rental"],
+      "deduction_rate": 1.0,
+      "color": "9DC3E6"
+    },
+    "Professional Services": {
+      "keywords": ["attorney", "lawyer", "accountant", "cpa", "consultant", "legal", "notary", "payroll", "adp", "paychex", "hr block", "turbotax", "bookkeeper", "financial advisor", "bank fees", "wire transfer fee"],
+      "deduction_rate": 1.0,
+      "color": "C9B1D9"
+    },
+    "Advertising & Marketing": {
+      "keywords": ["facebook ads", "google ads", "instagram", "yelp advertising", "advertising", "marketing", "printing", "design", "fiverr", "upwork", "99designs", "banner", "flyer", "business cards", "vistaprint", "moo.com", "signage"],
+      "deduction_rate": 1.0,
+      "color": "F4B942"
+    },
+    "Utilities & Communications": {
+      "keywords": ["electric", "pg&e", "con ed", "conedison", "duke energy", "water", "sewage", "internet", "comcast", "xfinity", "spectrum", "cox", "at&t", "verizon", "t-mobile", "sprint", "phone bill", "wireless", "voip", "ring central", "grasshopper"],
+      "deduction_rate": 1.0,
+      "color": "70AD47"
+    },
+    "Amazon Business": {
+      "keywords": ["amazon", "amzn", "amazon.com", "amazon marketplace", "amazon web services"],
+      "deduction_rate": 1.0,
+      "color": "FF9900",
+      "source_tag": "amazon"
+    },
+    "Costco Business": {
+      "keywords": ["costco", "costco wholesale", "costco.com"],
+      "deduction_rate": 1.0,
+      "color": "005DAA",
+      "source_tag": "costco"
+    },
+    "Insurance": {
+      "keywords": ["insurance", "geico", "state farm", "allstate", "progressive", "nationwide", "liberty mutual", "travelers insurance", "hartford", "business insurance", "liability insurance", "workers comp", "health insurance"],
+      "deduction_rate": 1.0,
+      "color": "FF7575"
+    },
+    "Rent & Facilities": {
+      "keywords": ["rent", "lease", "property management", "storage unit", "public storage", "extra space storage", "warehouse", "coworking", "wework", "regus"],
+      "deduction_rate": 1.0,
+      "color": "B4A7D6"
+    },
+    "Shipping & Postage": {
+      "keywords": ["usps", "ups", "fedex", "dhl", "postage", "shipping", "stamps.com", "pirateship", "shipstation"],
+      "deduction_rate": 1.0,
+      "color": "D6ADAD"
+    },
+    "Banking & Finance": {
+      "keywords": ["bank fee", "service charge", "wire fee", "overdraft", "interest charge", "loan payment", "paypal fee", "stripe fee", "square fee", "merchant fee"],
+      "deduction_rate": 1.0,
+      "color": "ADB9CA"
+    }
+  },
+  "tax_brackets_2025": {
+    "single": [
+      {"min": 0,      "max": 11925,   "rate": 0.10},
+      {"min": 11925,  "max": 48475,   "rate": 0.12},
+      {"min": 48475,  "max": 103350,  "rate": 0.22},
+      {"min": 103350, "max": 197300,  "rate": 0.24},
+      {"min": 197300, "max": 250525,  "rate": 0.32},
+      {"min": 250525, "max": 626350,  "rate": 0.35},
+      {"min": 626350, "max": 999999999, "rate": 0.37}
+    ],
+    "married_filing_jointly": [
+      {"min": 0,      "max": 23850,   "rate": 0.10},
+      {"min": 23850,  "max": 96950,   "rate": 0.12},
+      {"min": 96950,  "max": 206700,  "rate": 0.22},
+      {"min": 206700, "max": 394600,  "rate": 0.24},
+      {"min": 394600, "max": 501050,  "rate": 0.32},
+      {"min": 501050, "max": 751600,  "rate": 0.35},
+      {"min": 751600, "max": 999999999, "rate": 0.37}
+    ],
+    "self_employment_rate": 0.153,
+    "se_deduction_rate": 0.5
+  }
+}
