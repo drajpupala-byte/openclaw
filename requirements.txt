@@ -3,3 +3,11 @@ pdfplumber>=0.10.0
 pandas>=2.2.0
 python-dateutil>=2.8.0
 colorama>=0.4.6
+
+# AI features (optional — install what you need)
+# Claude API backend:
+#   pip install anthropic
+# Local Ollama backend (100% on-device — Gemma / Llama / Qwen):
+#   Install Ollama from https://ollama.com
+#   pip install ollama
+#   ollama pull llama3.2      # or gemma3, qwen2.5, mistral, etc.
