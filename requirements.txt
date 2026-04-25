@@ -1,0 +1,21 @@
+# Core LLM SDK
+anthropic>=0.40.0
+
+# Future AGI platform
+futureagi>=0.1.0
+ai-evaluation>=0.1.0
+
+# Tracing instrumentors (install the ones you need)
+fi-instrumentation>=0.1.0
+traceai-openai>=0.1.0         # OpenAI auto-tracing
+# traceai-anthropic>=0.1.0    # Anthropic auto-tracing (when available)
+# traceai-langchain>=0.1.0    # LangChain auto-tracing
+# traceai-crewai>=0.1.0       # CrewAI auto-tracing
+# traceai-llamaindex>=0.1.0   # LlamaIndex auto-tracing
+
+# Prompt optimization (optional — pick one)
+# agent-opt>=0.1.0             # Full optimization suite (6 algorithms)
+# gepa>=0.1.0                  # GEPA alone (lighter dependency)
+
+# Optional: OpenAI backend for custom agents
+# openai>=1.0.0
